@@ -3,7 +3,7 @@
 Create a new java ﬁle called MyFile.java
 
 Write code to read the content of the text ﬁle input.txt. For each line in
-input.txt, write a new line in the new text ﬁle output.txt that computes
+input.txt, write a new line in the new text ﬁle test.txt that computes
 the answer to some operation on a list of numbers.
 
 If the input.txt has the following:
@@ -14,7 +14,7 @@ If the input.txt has the following:
 
        Avg: 1,2,3,5,6
 
-Your program should generate output.txt as follows:
+Your program should generate test.txt as follows:
 
        The min [1, 2, 3, 5, 6] is 1.
   
