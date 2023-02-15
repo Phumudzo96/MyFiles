@@ -7,6 +7,7 @@ input.txt, write a new line in the new text ﬁle output.txt that computes
 the answer to some operation on a list of numbers.
 
 If the input.txt has the following:
+       
        Min: 1,2,3,5,6
 
        Max: 1,2,3,5,6
